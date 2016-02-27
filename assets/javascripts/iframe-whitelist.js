@@ -10,7 +10,7 @@
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/tv\.sohu\.com\/upload\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/ssl\.acfun\.tv\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.google\.com\/maps\/d\/embed\?.+/i);
-  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/drive\.google\.com\/iframe\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/drive\.google\.com\/file\/d\/iframe\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/w\.soundcloud\.com\/player\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/graphics8\.nytimes\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.douyutv\.com\/embed\/.+/i);
